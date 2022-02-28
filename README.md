@@ -18,7 +18,7 @@ Meu nome é Rafael Santana, estudante autodidata de programação. Além de prog
 
 <hr>
 
-- 🌱 Atualmente estou estudando JavaScript :smiley:.
+- 🌱 Atualmente estou estudando JavaScript :smiley:
 - 📫 E-mail: rafael.narl@hotmail.com
 
 <hr>
