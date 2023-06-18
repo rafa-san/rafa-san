@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ## Hello, world! Bem-vindos ao meu GitHub! 👋
 
-Meu nome é Rafael Santana, estudante autodidata de programação. Além de programação e tecnologia, sou apaixonado por :movie_camera: cinema, :books: literatura e :bicyclist: bikes.
+Meu nome é Rafael Santana. Além de programação e tecnologia, sou apaixonado por :movie_camera: cinema, :books: literatura e :bicyclist: bikes.
 
 <hr>
 
