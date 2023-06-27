@@ -32,3 +32,5 @@ Meu nome é Rafael Santana. Além de programação e tecnologia, sou apaixonado 
 ##
 
 ![Snake animation](https://github.com/rafa-san/rafa-san/blob/output/github-contribution-grid-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=rafa-san)
