@@ -28,5 +28,7 @@ Meu nome é Rafael Santana. Além de programação e tecnologia, sou apaixonado 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafa-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafa-san&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    
+##
 
 ![Snake animation](https://github.com/rafa-san/rafa-san/blob/output/github-contribution-grid-snake.svg)
