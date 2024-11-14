@@ -83,12 +83,13 @@ GITHUB STATS
 
 <!-- CONTATO -->
 ## Contato
-<div style="display: flex;gap: 8px;">
+<div style="display: flex;">
   <a href="https://www.linkedin.com/in/rafael-santana-53750415a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Logo LinkedIn" height="50" width="50" style="display: inline-block;border-radius:8px;margin: 0 1rem 0 0;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="Logo LinkedIn" height="50" width="50" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:rafael.narl@hotmail.com" target="_blank">
-    <img src="./images/ms-outlook.png" alt="Logo Outlook" height="50" width="50" style="display: inline-block;border-radius:8px;margin: 0 1rem 0 0;" />
+    <img src="./images/ms-outlook.png" alt="Logo Outlook" height="50" width="50" />
   </a>
   &nbsp;&nbsp;&nbsp;
 </div>
