@@ -35,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" width="50" title="CSS" alt="CSS" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50" title="JavaScript" alt="JavaScript" />
+  &nbsp;&nbsp;&nbsp;
 </div>
 
 <!-- FERRAMENTAS DO DIA A DIA -->
@@ -51,6 +52,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="50" alt="Git" />
   &nbsp;&nbsp;&nbsp;
   <img src="./images/github.png" height="50" width="50" alt="GitHub" />
+  &nbsp;&nbsp;&nbsp;
 </div>
 
 
@@ -66,6 +68,7 @@
   <img src="./images/mdn.png" height="50" width="50" alt="Logo MDN Web Docs" />
   &nbsp;&nbsp;&nbsp;
   <img src="./images/w3shools.png" height="50" width="50" alt="Logo W3Schools" />
+  &nbsp;&nbsp;&nbsp;
 </div>
 
 
@@ -87,6 +90,7 @@ GITHUB STATS
   <a href="mailto:rafael.narl@hotmail.com" target="_blank">
     <img src="./images/ms-outlook.png" alt="Logo Outlook" height="50" width="50" style="display: inline-block;border-radius:8px;margin: 0 1rem 0 0;" />
   </a>
+  &nbsp;&nbsp;&nbsp;
 </div>
 
 
