@@ -29,32 +29,43 @@
 
 <!-- LINGUAGENS E FRAMEWORKS QUE ESTOU ESTUDANDO -->
 ### Linguagens
-<div style="display:flex;gap:8px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" width="50" style="display:inline-block;margin:0 1rem 0 0;" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" width="50" style="display:inline-block;margin:0 1rem 0 0;" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50" style="display:inline-block;border-radius:8px;margin:0 1rem 0 0;" alt="JavaScript" />
+<div style="display:flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" width="50" title="HTML" alt="HTML" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" width="50" title="CSS" alt="CSS" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" width="50" title="JavaScript" alt="JavaScript" />
 </div>
 
 <!-- FERRAMENTAS DO DIA A DIA -->
 ### Ferramentas do dia a dia
-<div style="display:flex;gap:8px;">
-  <img src="./images/libreoffice-calc.png" height="50" width="50" style="display:inline-block;margin:0 1rem 0 0;" alt="Libre Office Calc" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="50" width="50" style="display:inline-block;margin:0 1rem 0 0;" alt="Chrome" />
-  <img src="./images/codepen.png" height="50" width="50" style="display:inline-block;margin:0 1rem 0 0;" alt="CodePen" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" width="50" style="display:inline-block;margin:0 1rem 0 0;" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="50" style="display:inline-block;margin:0 1rem 0 0;" alt="Git" />
-  <img src="./images/github.png" height="50" width="50" style="display:inline-block;margin:0 1rem 0 0;" alt="GitHub" />
+<div style="display:flex;">
+  <img src="./images/libreoffice-calc.png" height="50" width="50" alt="Libre Office Calc" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" height="50" width="50" alt="Chrome" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./images/codepen.png" height="50" width="50" alt="CodePen" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" width="50" alt="VS Code" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="50" alt="Git" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./images/github.png" height="50" width="50" alt="GitHub" />
 </div>
 
 
 <!-- PLATAFORMAS DE ESTUDO -->
 ### Plataformas de Estudo Favoritas
-<div style="display:flex;gap:8px;">
-  <img src="./images/curso-em-video.png" height="50" width="50" style="display:inline-block;border-radius:8px;margin:0 1rem 0 0;" alt="Logo Curso em Vídeo" />
-  <img src="./images/dio-digital-innovation-one.jpg" height="50" width="50" style="display:inline-block;border-radius:8px;margin:0 1rem 0 0;" alt="Logo Digital Innovation One | DIO" />
-  <img src="./images/fcc_primary_small.png" height="50" width="70" style="display:inline-block;margin:0 1rem 0 0;" alt="Logo freeCodeCamp" />
-  <img src="./images/mdn.png" height="50" width="50" style="display:inline-block;border-radius:8px;margin:0 1rem 0 0;" alt="Logo MDN Web Docs" />
-  <img src="./images/w3shools.png" height="50" width="50" style="display:inline-block;border-radius:1px;margin:0 1rem 0 0;" alt="Logo W3Schools" />
+<div style="display:flex;">
+  <img src="./images/curso-em-video.png" height="50" width="50" alt="Logo Curso em Vídeo" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./images/dio-digital-innovation-one.jpg" height="50" width="50" alt="Logo Digital Innovation One | DIO" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./images/fcc_primary_small.png" height="50" width="70" alt="Logo freeCodeCamp" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./images/mdn.png" height="50" width="50" alt="Logo MDN Web Docs" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./images/w3shools.png" height="50" width="50" alt="Logo W3Schools" />
 </div>
 
 
