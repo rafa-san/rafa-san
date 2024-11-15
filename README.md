@@ -53,7 +53,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <!-- PLATAFORMAS DE ESTUDO -->
-### Plataformas de Estudo Favoritas
+### Plataformas de estudo favoritas
 <div style="display:flex;overflow:auto;">
   <img src="./images/curso-em-video.png" height="50" width="50" title="Curso em Vídeo" alt="Logo Curso em Vídeo" style="border-radius:8px" />
   &nbsp;&nbsp;&nbsp;
