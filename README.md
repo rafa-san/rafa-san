@@ -12,12 +12,12 @@
 
 <!-- SOBRE MIM -->
 ## Sobre Mim
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" style="margin-right:4px;" /> <span style="font-size: 1.1rem">Estou estudando JavaScript e praticando HTML e CSS diariamente – e estou adorando o processo!</span>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" style="margin-right:4px;" /> <span style="font-size: 1.1rem">Meu objetivo é construir uma base sólida tanto em linguagens de front-end quanto em back-end.</span>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers%20Medium-Light%20Skin%20Tone.png" alt="Crossed Fingers Medium-Light Skin Tone" width="25" height="25" style="margin-right:4px;" /> <span style="font-size: 1.1rem">Tenho interesse em explorar, no futuro, áreas como desenvolvimento de games e bancos de dados.</span>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" style="margin-right:4px;" /> <span style="font-size: 1.1rem">Além da tecnologia, sou apaixonado por cinema, literatura e bicicletas.</span>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" style="margin-right:4px;" /> <span style="font-size: 1.1rem">Adoro simplificar processos e desenvolver soluções criativas.</span>
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Man Raising Hand Light Skin Tone" width="25" height="25" style="margin-right:4px;" /> <span style="font-size: 1.1rem">Fique à vontade para explorar meus repositórios e acompanhar meu progresso!</span>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" style="margin-right:4px;vertical-align:text-bottom;" /> <span style="font-size:1.1rem">Estou estudando JavaScript e praticando HTML e CSS diariamente – e estou adorando o processo!</span>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" style="margin-right:4px;vertical-align:text-bottom;" /> <span style="font-size:1.1rem">Meu objetivo é construir uma base sólida tanto em linguagens de front-end quanto em back-end.</span>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Crossed%20Fingers%20Medium-Light%20Skin%20Tone.png" alt="Crossed Fingers Medium-Light Skin Tone" width="25" height="25" style="margin-right:4px;vertical-align:text-bottom;" /> <span style="font-size:1.1rem">Tenho interesse em explorar, no futuro, áreas como desenvolvimento de games e bancos de dados.</span>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" style="margin-right:4px;vertical-align:text-bottom;" /> <span style="font-size:1.1rem">Além da tecnologia, sou apaixonado por cinema, literatura e bicicletas.</span>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="25" height="25" style="margin-right:4px;vertical-align:text-bottom;" /> <span style="font-size:1.1rem">Adoro simplificar processos e desenvolver soluções criativas.</span>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Light%20Skin%20Tone.png" alt="Man Raising Hand Light Skin Tone" width="25" height="25" style="margin-right:4px;vertical-align:text-bottom;" /> <span style="font-size:1.1rem">Fique à vontade para explorar meus repositórios e acompanhar meu progresso!</span>
 
 <br />
 
@@ -44,7 +44,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="./images/codepen.png" height="50" width="50" title="CodePen" alt="CodePen" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" width="50" title="VS Code" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50" width="50" title="Visual Studio Code" alt="VS Code" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50" width="50" title="Git" alt="Git" />
   &nbsp;&nbsp;&nbsp;
