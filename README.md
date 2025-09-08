@@ -6,7 +6,7 @@
 <!-- TEXTO DINÂMICO -->
 <div align="center">
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Seja+bem-vinda(o)+ao+meu+GitHub!;Sou+um+desenvolvedor+em+formação.;Sempre+estudando+e+aprendendo+um+pouco+diariamente.;Acredito+que+a+tecnologia+pode+facilitar+nossas+vidas%2C;tornando+nossas+tarefas+mais+simples%2C+r%C3%A1pidas+e+precisas." alt="Typing SVG - Breve introdução ao meu perfil" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=800&lines=Seja+bem-vinda(o)+ao+meu+GitHub!;Sou+um+desenvolvedor+em+forma%C3%A7%C3%A3o.;Sempre+estudando+e+aprendendo+diariamente.;Acredito+que+a+tecnologia+pode+ajudar.;Ela+torna+nossas+tarefas+mais+simples,;+r%C3%A1pidas+e+precisas." alt="Typing SVG - Breve introdução ao meu perfil" />
   </p>
 </div>
 
@@ -57,9 +57,9 @@
 <div style="display:flex;overflow:auto;">
   <img src="./images/curso-em-video.png" height="50" width="50" title="Curso em Vídeo" alt="Logo Curso em Vídeo" style="border-radius:8px" />
   &nbsp;&nbsp;&nbsp;
-  <img src="./images/dio-digital-innovation-one.jpg" height="50" width="50" title="Digital Innovation One | DIO" alt="Logo Digital Innovation One | DIO" style="border-radius:8px" />
-  &nbsp;&nbsp;&nbsp;
   <img src="./images/fcc_primary_small.png" height="50" width="70" title="freeCodeCamp" alt="Logo freeCodeCamp" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="./images/learn-programming.png" height="50" width="50" title="Learn Programming" alt="Logo Learn Programming" />
   &nbsp;&nbsp;&nbsp;
   <img src="./images/mdn.png" height="50" width="50" title="MDN Web Docs" alt="Logo MDN Web Docs" style="border-radius:8px" />
   &nbsp;&nbsp;&nbsp;
